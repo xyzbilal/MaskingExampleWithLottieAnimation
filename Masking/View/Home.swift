@@ -171,7 +171,7 @@ struct Home: View {
             }
             .font(.title.bold())
             .foregroundColor(.black)
-            Text("It will be your account soo late")
+            Text("Spend it smiley smiley :))")
                 .font(.caption)
                 .foregroundColor(.gray)
         }
