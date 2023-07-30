@@ -8,5 +8,9 @@ A swiftui sample app with masking and lottie animation. you need to add Lottie 3
 
 [More Lottie animations](https://lottiefiles.com/featured)
 
-https://github.com/xyzbilal/MaskingExampleWithLottieAnimation/assets/18241412/a9d26c17-1e20-4603-81c8-52be3ddeb57d
+
+
+
+
+https://github.com/xyzbilal/MaskingExampleWithLottieAnimation/assets/18241412/916324f5-be32-462d-ac6d-b69a68a299b7
 
